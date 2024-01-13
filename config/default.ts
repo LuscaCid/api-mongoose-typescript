@@ -1,7 +1,7 @@
 
 const dbUser = process.env.DB_USERNAME
 const dbPassword = process.env.DB_PASSWORD
-console.log(dbUser)
+
 module.exports = {
     PORT : 3333,
     otherProperty : "jhudoamor",

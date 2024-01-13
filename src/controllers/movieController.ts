@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 
-import { MoovieModel } from "../models/moovie";
+import { MoovieModel } from "../models/movie";
 
 import Logger from "../../config/logger";
 

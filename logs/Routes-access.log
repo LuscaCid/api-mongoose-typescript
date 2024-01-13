@@ -18,3 +18,13 @@
 2024-01-12 22:04:36:436 - [32minfo[39m - [32mServer is running on port 3333[39m
 2024-01-12 22:09:22:922 - [32minfo[39m - [32mConnected at database[39m
 2024-01-12 22:09:22:922 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-13 10:29:41:2941 - [32minfo[39m - [32mConnected at database[39m
+2024-01-13 10:29:41:2941 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-13 10:29:49:2949 - [35mhttp[39m - [35mPOST /api/movie/create 200 16 - 4.140 ms[39m
+[35m[39m
+2024-01-13 10:30:40:3040 - [32minfo[39m - [32mConnected at database[39m
+2024-01-13 10:30:40:3040 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-13 10:31:09:319 - [32minfo[39m - [32mConnected at database[39m
+2024-01-13 10:31:09:319 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-13 10:31:20:3120 - [32minfo[39m - [32mConnected at database[39m
+2024-01-13 10:31:20:3120 - [32minfo[39m - [32mServer is running on port 3333[39m
