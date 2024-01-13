@@ -1,0 +1,121 @@
+2024-01-12 20:14:01:141 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:14:11:1411 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:14:26:1426 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:14:34:1434 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:14:47:1447 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:14:47:1447 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:14:54:1454 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:14:54:1454 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:15:01:151 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:15:01:151 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:16:27:1627 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:16:27:1627 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:16:34:1634 - [31merror[39m - [31mnao foi possivel conectar[39m
+2024-01-12 20:16:34:1634 - [31merror[39m - [31merror : MongoParseError: option retrywites is not supported[39m
+2024-01-12 20:16:34:1634 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:16:40:1640 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:16:40:1640 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:20:45:2045 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:20:45:2045 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:20:51:2051 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:20:51:2051 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:26:06:266 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:26:06:266 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:26:09:269 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:26:09:269 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:27:36:2736 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:27:36:2736 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:27:47:2747 - [34minfo[39m - [34mconectou ao banco[39m
+2024-01-12 20:27:47:2747 - [34minfo[39m - [34mServer is running on port[39m
+2024-01-12 20:28:00:280 - [31merror[39m - [31mnao foi possivel conectar[39m
+2024-01-12 20:28:09:289 - [31merror[39m - [31mnao foi possivel conectar[39m
+2024-01-12 20:28:18:2818 - [31merror[39m - [31mnao foi possivel conectar[39m
+2024-01-12 20:28:26:2826 - [31merror[39m - [31mnao foi possivel conectar[39m
+2024-01-12 20:28:29:2829 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:28:29:2829 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:58:14:5814 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:58:14:5814 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:58:20:5820 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:58:20:5820 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:58:24:5824 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:58:24:5824 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:58:29:5829 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:58:29:5829 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:58:38:5838 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:58:38:5838 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:58:46:5846 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:58:46:5846 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:58:57:5857 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:58:57:5857 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:59:13:5913 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:59:13:5913 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 20:59:36:5936 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 20:59:36:5936 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:00:58:058 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:00:58:058 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:01:02:12 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:01:02:12 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:04:30:430 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:04:30:430 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:04:45:445 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:04:45:445 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:04:57:457 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:04:57:457 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:06:14:614 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:06:14:614 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:06:39:639 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:06:39:639 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:06:43:643 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:06:43:643 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:06:50:650 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:06:50:650 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:06:56:656 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:06:56:656 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:06:59:659 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:06:59:659 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:07:04:74 - [35mhttp[39m - [35mPOST /tester/test 200 51 - 3.644 ms[39m
+[35m[39m
+2024-01-12 21:07:21:721 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:07:21:721 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:07:36:736 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:07:36:736 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:07:40:740 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:07:40:740 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:07:47:747 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:07:47:747 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:07:51:751 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:07:51:751 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:07:57:757 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:07:57:757 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:08:10:810 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:08:10:810 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:08:18:818 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:08:18:818 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:08:25:825 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:08:25:825 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:08:44:844 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:08:44:844 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:08:48:848 - [35mhttp[39m - [35mPOST /tester/test 200 51 - 3.302 s[39m
+[35m[39m
+2024-01-12 21:09:55:955 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:09:55:955 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:10:06:106 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:10:06:106 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:10:18:1018 - [35mhttp[39m - [35mPOST /tester/test 200 51 - 5.720 s[39m
+[35m[39m
+2024-01-12 21:13:50:1350 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:13:50:1350 - [32minfo[39m - [32mServer is running on port[39m
+2024-01-12 21:13:58:1358 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:13:58:1358 - [32minfo[39m - 
+2024-01-12 21:14:08:148 - [32minfo[39m - [32mconectou ao banco[39m
+2024-01-12 21:14:08:148 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-12 21:14:49:1449 - [32minfo[39m - [32mConnected at database[39m
+2024-01-12 21:14:49:1449 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-12 21:15:01:151 - [32minfo[39m - [32mConnected at database[39m
+2024-01-12 21:15:01:151 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-12 22:04:25:425 - [32minfo[39m - [32mConnected at database[39m
+2024-01-12 22:04:25:425 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-12 22:04:36:436 - [32minfo[39m - [32mConnected at database[39m
+2024-01-12 22:04:36:436 - [32minfo[39m - [32mServer is running on port 3333[39m
+2024-01-12 22:09:22:922 - [32minfo[39m - [32mConnected at database[39m
+2024-01-12 22:09:22:922 - [32minfo[39m - [32mServer is running on port 3333[39m
