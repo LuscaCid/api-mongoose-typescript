@@ -15,7 +15,7 @@ import morganMiddlware from './middleware/morgan'
 const app = express()
 app.use(express.json())
 app.use(morganMiddlware)
-app.use("/tester",router)
+app.use("/api",router)
 
 const PORT = config.get<number>('PORT')
 
