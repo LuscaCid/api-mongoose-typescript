@@ -60,7 +60,6 @@ export const udateFilmById = async (req : Request<ImovieUpdate>, res : Response)
         newTitle,
         newDescription,
         newRating,
-        
     } = <ImovieUpdate>req.body//o que pode vir do frontend para atualizar
     try {
          const movieExists = await movieModel.findById(id)
