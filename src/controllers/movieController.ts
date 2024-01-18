@@ -53,9 +53,7 @@ export async function deleteFilmById(req : Request, res : Response) {
         Logger.error(e)
         return res.status(500).send("tente novamente mais tarde")
     }
-
 }
-
 export const udateFilmById = async (req : Request<ImovieUpdate>, res : Response) => {
     const {id} = req.params
     const {
