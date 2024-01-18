@@ -6,6 +6,6 @@ module.exports = {
     PORT : 3333,
     otherProperty : "jhudoamor",
      
-    dbUri : `mongodb+srv://${dbUser}:${dbPassword}@cluster0.iehuwlr.mongodb.net/?retryWrites=true&w=majority`,
+    dbUri : `mongodb+srv://${dbUser}:${dbPassword}@cluster0.fmwkydf.mongodb.net/?retryWrites=true&w=majority`,
     env : process.env.ENV
 }

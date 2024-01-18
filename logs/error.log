@@ -4,3 +4,11 @@
 2024-01-12 20:28:09:289 - [31merror[39m - [31mnao foi possivel conectar[39m
 2024-01-12 20:28:18:2818 - [31merror[39m - [31mnao foi possivel conectar[39m
 2024-01-12 20:28:26:2826 - [31merror[39m - [31mnao foi possivel conectar[39m
+2024-01-18 10:55:15:5515 - [31merror[39m - [31mWas not possible to connect[39m
+2024-01-18 10:55:15:5515 - [31merror[39m - [31merror : MongoServerError: bad auth : authentication failed[39m
+2024-01-18 10:55:23:5523 - [31merror[39m - [31mWas not possible to connect[39m
+2024-01-18 10:55:23:5523 - [31merror[39m - [31merror : MongoServerError: bad auth : authentication failed[39m
+2024-01-18 13:21:59:2159 - [31merror[39m - [31mmovie.delete is not a function[39m
+2024-01-18 13:22:56:2256 - [31merror[39m - [31mmovie.delete is not a function[39m
+2024-01-18 13:23:23:2323 - [31merror[39m - [31mmovie.delete is not a function[39m
+2024-01-18 13:24:38:2438 - [31merror[39m - [31mmovie.delete is not a function[39m
