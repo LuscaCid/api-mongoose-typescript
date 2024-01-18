@@ -4,6 +4,8 @@ import { MoovieModel as movieModel } from "../models/movie";
 
 import Logger from "../../config/logger";
 
+import {ImovieUpdate} from '../interfaces/ImovieUpdate' 
+
 export async function createMovie(req : Request, res : Response) {
     const info = req.body
     let data : object;
@@ -54,13 +56,14 @@ export async function deleteFilmById(req : Request, res : Response) {
 
 }
 
-export const udateFilmById = async (req : Request, res : Response) => {
+export const udateFilmById = async (req : Request<ImovieUpdate>, res : Response) => {
     const {id} = req.params
     const {
         newTitle,
         newDescription,
-        newRating
-    } = req.body
+        newRating,
+        
+    } = <ImovieUpdate>req.body//o que pode vir do frontend para atualizar
     try {
          const movieExists = await movieModel.findById(id)
         if(!movieExists)return res.status(404).json({message : "not found"})
